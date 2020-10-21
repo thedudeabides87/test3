@@ -1,9 +1,18 @@
 {
   "summary": {
-    "title": "Test"
+    "title": "Test",
+    "owner": "jord",
+    "description": "tetst"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "teest",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "test"
   }
 }
